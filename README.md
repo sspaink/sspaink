@@ -26,6 +26,6 @@
 
 ### :rocket: My Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sspaink)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sspaink&size_weight=0.5&count_weight=0.5)
 
 <img alt="Sebastian's Github Statistics" src="https://github-readme-stats-phi-wheat.vercel.app/api?username=sspaink&show_icons=true&hide_border=true" />
