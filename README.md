@@ -1,6 +1,5 @@
 <div id="header" align="center">
-<img src="https://user-images.githubusercontent.com/3441183/178367424-c74d7015-fa4c-4a52-be21-561b57f76240.png" width="200"/>
-
+<img src="https://raw.githubusercontent.com/sspaink/rustaceanize.me/master/pregen_crabs/orange_happy_top.png" width="400"/>
 
 <div id="badges">
   <a href="https://sspaink.github.io/">
@@ -11,20 +10,21 @@
   </a>
 </div>
 
-### Roar :t-rex:
-
+### :t-rex: Roar
 
 </div>
 
 ---
 
-### :sauropod: About Me:
+ :crab: Create your own custom Rust mascot: [rustaceanize.me](https://sspaink.github.io/rustaceanize.me/)
 
-* roar?
+ :tiger: Build a Telegraf config with this TUI: [Telegraf Companion](https://github.com/sspaink/telegraf-companion)
+
+:electric_plug: [3D print a Gopher](https://www.printables.com/model/410049-go-gopher) and [watch my talk to learn how to do it in Go](https://www.youtube.com/watch?v=vXpz5fUOH5A)
 
 ---
 
-### :rocket: My Stats:
+### :rocket: My Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sspaink)](https://github.com/anuraghazra/github-readme-stats)
 
