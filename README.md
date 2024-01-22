@@ -15,6 +15,7 @@
 </div>
 
 ---
+ :pencil2: Check out my Gopher artwork: [sspaink/Gophers](https://github.com/sspaink/Gophers)
 
  :crab: Create your own custom Rust mascot: [rustaceanize.me](https://sspaink.github.io/rustaceanize.me/)
 
